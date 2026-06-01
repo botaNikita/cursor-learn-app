@@ -8,7 +8,7 @@ def home():
     return render_template(
         "index.html",
         title="Cursor Learn App",
-        message="A minimal Python web app for learning Cursor and deployment.",
+        message="Hi Nikita — a minimal Python web app for learning Cursor and deployment.",
     )
 
 
